@@ -1,3 +1,4 @@
+#Нет защиты от неправильного ввода
 import random
 import os
 
