@@ -2,6 +2,7 @@
 import random
 import os
 
+print("CHELLO EVERYBODY!!!!!")
 
 x = int(input("Размер поля по горизонтали:"))+1
 
