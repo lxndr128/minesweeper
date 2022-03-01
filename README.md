@@ -1,2 +1,2 @@
 # minesweeper
-Простой сапер для терминала
+Simple minesweeper game for terminal.
